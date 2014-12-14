@@ -16,3 +16,6 @@ A single page application for calcuting the tip
 
  
 ![alt tag](https://raw.github.com/sarchak/Tipster/master/demo.gif)
+
+
+Settings icon from Icons8 App
